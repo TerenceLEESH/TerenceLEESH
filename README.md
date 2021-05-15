@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerenceLEESH
 - 👀 I’m interested in mobile application and web application
-- 🌱 I’m currently learning Javascript for ReactJS and Flutter.
+- 🌱 I’m currently learning Javascript, Html5, CSS3.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
